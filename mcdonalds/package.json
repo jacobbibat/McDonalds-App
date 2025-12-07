@@ -11,7 +11,14 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.6",
+<<<<<<< HEAD
+    "@mui/material": "^7.3.6",
+    "@mui/x-charts": "^8.21.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+=======
     "@mui/material": "^7.3.5",
+>>>>>>> 08dd84b4e3d4881e84356a3efff9a8fab9b19d88
     "mongodb": "^7.0.0",
     "next": "^16.0.7",
     "react": "19.2.0",
